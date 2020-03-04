@@ -14,22 +14,23 @@ Indices and tables
 
 Karinov Media Network 
 ==================
-- [kaos](https://www.grosirkaosdistro.net/)
-- [kaos distro](https://www.grosirkaosdistro.net/)
-- [grosir bandung](https://www.grosirkaosdistro.net/)
-- [grosir baju](https://www.grosirkaosdistro.net/)
-- [grosir kaos](https://www.grosirkaosdistro.net/)
-- [grosir bandung](https://www.grosirkaosdistro.net/)
-- [grosir kaos distro di bandung](https://www.grosirkaosdistro.net/)
-- [kaos bandung](https://www.grosirkaosdistro.net/)
-- [bandung](https://www.grosirkaosdistro.net/)
-- [grosir di bandung](https://www.grosirkaosdistro.net/)
-- [baju bandung](https://www.grosirkaosdistro.net/)
-- [grosir baju bandung](https://www.grosirkaosdistro.net/)
-- [grosir murah](https://www.grosirkaosdistro.net/)
-- [grosir baju murah](https://www.grosirkaosdistro.net/)
-- [grosir kaos murah](https://www.grosirkaosdistro.net/)
-- [grosir bandung murah](https://www.grosirkaosdistro.net/)
+- `kaos distro <https://www.grosirkaosdistro.net/>`_
+- `kaos bandung <https://www.grosirkaosdistro.net/>`_
+- `grosir kaos di bandung <https://www.grosirkaosdistro.net/>`_
+- `grosir kaos bandung <https://www.grosirkaosdistro.net/>`_
+- `grosir bandung <https://www.grosirkaosdistro.net/>`_
+- `baju bandung <https://www.grosirkaosdistro.net/>`_
+- `grosir baju bandung <https://www.grosirkaosdistro.net/>`_
+- `grosir kaos <https://www.grosirkaosdistro.net/>`_
+- `grosir kaos murah <https://www.grosirkaosdistro.net/>`_
+- `grosir baju murah <https://www.grosirkaosdistro.net/>`_
+- `grosir <https://www.grosirkaosdistro.net/>`_
+- `grosir murah <https://www.grosirkaosdistro.net/>`_
+- `grosir murah di bandung <https://www.grosirkaosdistro.net/>`_
+- `grosir distro <https://www.grosirkaosdistro.net/>`_
+- `grosir bandung murah <https://www.grosirkaosdistro.net/>`_
+- `grosir online <https://www.grosirkaosdistro.net/>`_
+
 
 
 Bertanya-tanya petualangan Kaos Distro Saya My Travel
