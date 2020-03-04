@@ -12,7 +12,7 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-Karinov Media Network 
+GROSIR KAOS DISTRO BANDUNG
 ==================
 - `kaos distro <https://www.grosirkaosdistro.net/>`_
 - `kaos bandung <https://www.grosirkaosdistro.net/>`_
